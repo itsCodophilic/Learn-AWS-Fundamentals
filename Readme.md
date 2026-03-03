@@ -9,7 +9,7 @@
 <br>
 
 - Before learning AWS, you must understand foundational [cloud computing concepts](https://github.com/itsCodophilic/Learn-Cloud-Fundamentals)
-- Learn about cloud [fundamentals](./aws.md)
+- Learn about [AWS fundamentals](./aws.md)
 
 <br>
 <br>
